@@ -27,7 +27,7 @@ Perform Exploratory Data Analysis on a retail sales dataset and build an interac
 - Retail_EDA.ipynb
 - retail_sales_dataset.csv
 - Retail_Sales_Dashboard.pbix
-- Dashboard.png
+- Retail_Sales_Dashboard.pdf
 
 ---
 
