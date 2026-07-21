@@ -88,7 +88,7 @@ Build a Machine Learning model to predict passenger survival using Logistic Regr
 
 ## Author
 
-**Madhan Raj**
+**Madhanraj Ganeshan**
 
 Data Analytics Intern
 
